@@ -1,0 +1,10 @@
+/Users/omefire/Projects/leetcode/facebook/hashtable/Hashtable/49_Group_Anagrams/bin/Debug/netcoreapp2.1/49_Group_Anagrams.deps.json
+/Users/omefire/Projects/leetcode/facebook/hashtable/Hashtable/49_Group_Anagrams/bin/Debug/netcoreapp2.1/49_Group_Anagrams.runtimeconfig.json
+/Users/omefire/Projects/leetcode/facebook/hashtable/Hashtable/49_Group_Anagrams/bin/Debug/netcoreapp2.1/49_Group_Anagrams.runtimeconfig.dev.json
+/Users/omefire/Projects/leetcode/facebook/hashtable/Hashtable/49_Group_Anagrams/bin/Debug/netcoreapp2.1/49_Group_Anagrams.dll
+/Users/omefire/Projects/leetcode/facebook/hashtable/Hashtable/49_Group_Anagrams/bin/Debug/netcoreapp2.1/49_Group_Anagrams.pdb
+/Users/omefire/Projects/leetcode/facebook/hashtable/Hashtable/49_Group_Anagrams/obj/Debug/netcoreapp2.1/49_Group_Anagrams.csproj.CoreCompileInputs.cache
+/Users/omefire/Projects/leetcode/facebook/hashtable/Hashtable/49_Group_Anagrams/obj/Debug/netcoreapp2.1/49_Group_Anagrams.AssemblyInfoInputs.cache
+/Users/omefire/Projects/leetcode/facebook/hashtable/Hashtable/49_Group_Anagrams/obj/Debug/netcoreapp2.1/49_Group_Anagrams.AssemblyInfo.cs
+/Users/omefire/Projects/leetcode/facebook/hashtable/Hashtable/49_Group_Anagrams/obj/Debug/netcoreapp2.1/49_Group_Anagrams.dll
+/Users/omefire/Projects/leetcode/facebook/hashtable/Hashtable/49_Group_Anagrams/obj/Debug/netcoreapp2.1/49_Group_Anagrams.pdb
