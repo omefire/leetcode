@@ -1,0 +1,11 @@
+/Users/omefire/Projects/leetcode/facebook/hashtable/535EncodeDecodeTinyURL/bin/Debug/netcoreapp2.0/535EncodeDecodeTinyURL.deps.json
+/Users/omefire/Projects/leetcode/facebook/hashtable/535EncodeDecodeTinyURL/bin/Debug/netcoreapp2.0/535EncodeDecodeTinyURL.runtimeconfig.json
+/Users/omefire/Projects/leetcode/facebook/hashtable/535EncodeDecodeTinyURL/bin/Debug/netcoreapp2.0/535EncodeDecodeTinyURL.runtimeconfig.dev.json
+/Users/omefire/Projects/leetcode/facebook/hashtable/535EncodeDecodeTinyURL/bin/Debug/netcoreapp2.0/535EncodeDecodeTinyURL.dll
+/Users/omefire/Projects/leetcode/facebook/hashtable/535EncodeDecodeTinyURL/bin/Debug/netcoreapp2.0/535EncodeDecodeTinyURL.pdb
+/Users/omefire/Projects/leetcode/facebook/hashtable/535EncodeDecodeTinyURL/obj/Debug/netcoreapp2.0/535EncodeDecodeTinyURL.csproj.CoreCompileInputs.cache
+/Users/omefire/Projects/leetcode/facebook/hashtable/535EncodeDecodeTinyURL/obj/Debug/netcoreapp2.0/535EncodeDecodeTinyURL.AssemblyInfoInputs.cache
+/Users/omefire/Projects/leetcode/facebook/hashtable/535EncodeDecodeTinyURL/obj/Debug/netcoreapp2.0/535EncodeDecodeTinyURL.AssemblyInfo.cs
+/Users/omefire/Projects/leetcode/facebook/hashtable/535EncodeDecodeTinyURL/obj/Debug/netcoreapp2.0/535EncodeDecodeTinyURL.dll
+/Users/omefire/Projects/leetcode/facebook/hashtable/535EncodeDecodeTinyURL/obj/Debug/netcoreapp2.0/535EncodeDecodeTinyURL.pdb
+/Users/omefire/Projects/leetcode/facebook/hashtable/535EncodeDecodeTinyURL/obj/Debug/netcoreapp2.0/535EncodeDecodeTinyURL.csprojResolveAssemblyReference.cache

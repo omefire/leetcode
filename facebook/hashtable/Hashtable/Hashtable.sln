@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "49_Group_Anagrams", "49_Group_Anagrams\49_Group_Anagrams.csproj", "{384AB23E-95F0-4A05-A80C-6DC5F767148A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "535_Encode_Decode_Tiny_URL", "..\535EncodeDecodeTinyURL\535_Encode_Decode_Tiny_URL.csproj", "{57B105CC-6BAE-4548-8A91-EBE024459063}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{384AB23E-95F0-4A05-A80C-6DC5F767148A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{384AB23E-95F0-4A05-A80C-6DC5F767148A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{384AB23E-95F0-4A05-A80C-6DC5F767148A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B105CC-6BAE-4548-8A91-EBE024459063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B105CC-6BAE-4548-8A91-EBE024459063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B105CC-6BAE-4548-8A91-EBE024459063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B105CC-6BAE-4548-8A91-EBE024459063}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

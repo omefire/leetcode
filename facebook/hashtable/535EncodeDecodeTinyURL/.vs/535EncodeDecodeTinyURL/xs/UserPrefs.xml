@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{48DE20A0-736C-402C-B216-30F102E150AC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TinyURL.cs">
+    <Files>
+      <File FileName="Program.cs" Line="12" Column="6" />
+      <File FileName="TinyURL.cs" Line="43" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.535EncodeDecodeTinyURL PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/omefire/Projects/leetcode/facebook/hashtable/535EncodeDecodeTinyURL/Program.cs" relfile="Program.cs" line="10" column="39" />
+      <Breakpoint file="/Users/omefire/Projects/leetcode/facebook/hashtable/535EncodeDecodeTinyURL/TinyURL.cs" relfile="TinyURL.cs" line="50" column="1" />
+      <Breakpoint file="/Users/omefire/Projects/leetcode/facebook/hashtable/535EncodeDecodeTinyURL/TinyURL.cs" relfile="TinyURL.cs" line="39" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
